@@ -72,7 +72,9 @@
                         "styles": [
                             "src/styles.css"
                         ],
-                        "scripts": [],
+                        "scripts": [
+                            "http://echarts.baidu.com/gallery/vendors/echarts/map/js/world.js"
+                        ],
                         "assets": [
                             "src/favicon.ico",
                             "src/assets"
